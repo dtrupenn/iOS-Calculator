@@ -292,6 +292,7 @@
 				37043C8D161160C200CC0C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
